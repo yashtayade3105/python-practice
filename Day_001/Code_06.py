@@ -1,0 +1,6 @@
+print("======Python Pattern Banner==========")
+print("   P     Y     T     H     O     N")
+print("  P P   Y Y   T T   H H   O O   N N")
+print(" P   P Y   Y   T   HHHHH O   O N  N")
+print("PPPPP  YYY    T   H   H OOOO  N   N")
+print("just a fun pattern to print")

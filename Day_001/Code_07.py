@@ -1,0 +1,8 @@
+print("Bank Mini statement")
+print("Account Holder Name : Yash Tayade")
+print("Account Number : **********1234")
+print("Account Type : Saving Account")
+print("Available Balance : ₹ 50,000")
+print("Last Transaction : ₹ 5,000 on 01/01/2024")
+print("Branch : Mumbai Main Branch")
+print("Contact Number : +91-XXXXXXXXXX")

@@ -1,0 +1,12 @@
+print("Restaurant Bill Format")
+
+print("===================THE PIZZA PLACE ==============")
+print("Item    qty   price")
+print("Pizza   2     500")
+print("Pasta   1     300")
+print("Salad   1     150")
+print("Drinks  2     100")
+print("===============================================")
+print("Total Amount : 1050")
+print("Thanks for visiting comme again ")
+print("===============================================")
